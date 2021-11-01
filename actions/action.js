@@ -6,3 +6,5 @@ class UserComponent extends React.Component {
     }
   }
   
+
+  export default UserComponent
