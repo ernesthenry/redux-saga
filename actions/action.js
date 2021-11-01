@@ -1,5 +1,4 @@
-
-
+import React from 'react'
 class UserComponent extends React.Component {
     onSomeButtonClicked() {
       const { userId, dispatch } = this.props
